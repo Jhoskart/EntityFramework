@@ -64,3 +64,8 @@ C:\Users\AlienWare-\Desktop\practicadotnet\entityFramework\obj\Debug\net7.0\refi
 C:\Users\AlienWare-\Desktop\practicadotnet\entityFramework\obj\Debug\net7.0\entityFramework.pdb
 C:\Users\AlienWare-\Desktop\practicadotnet\entityFramework\obj\Debug\net7.0\entityFramework.genruntimeconfig.cache
 C:\Users\AlienWare-\Desktop\practicadotnet\entityFramework\obj\Debug\net7.0\ref\entityFramework.dll
+C:\Users\AlienWare-\Desktop\practicadotnet\entityFramework\bin\Debug\net7.0\Humanizer.dll
+C:\Users\AlienWare-\Desktop\practicadotnet\entityFramework\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AlienWare-\Desktop\practicadotnet\entityFramework\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AlienWare-\Desktop\practicadotnet\entityFramework\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\AlienWare-\Desktop\practicadotnet\entityFramework\bin\Debug\net7.0\System.CodeDom.dll
